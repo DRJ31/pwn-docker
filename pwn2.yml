@@ -1,0 +1,3 @@
+name: pwn2
+dependencies:
+  - python=2.7
